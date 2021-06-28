@@ -1,0 +1,35 @@
+.c1
+{
+	width: 400px !important;
+	height: 400px;
+	background-color:#FAF7F7;
+	border: 2px solid;
+	border-radius: 10px;
+	box-shadow: 10px 10px #A8A4A4; 
+}
+input
+{
+	width: 365px;
+    height: 83px;
+    border-radius: 5px;
+    margin: 15px 0px -6px 0px !important;
+}
+button
+{
+	border-radius: 15px;
+    width: 63px;
+    height: 45px;
+    padding: 10px;
+    font-size: 20px !important;
+    background: azure;
+
+}
+table
+{
+	margin: 16px 50px;
+}
+.hr
+{
+	border-width: 4px;
+}
+/*trlb*/
